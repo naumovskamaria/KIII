@@ -1,3 +1,5 @@
 This is a text file
 
 I am checking if the changes are being made from the other branch.
+
+Updates to the file are being made from the other branch.
